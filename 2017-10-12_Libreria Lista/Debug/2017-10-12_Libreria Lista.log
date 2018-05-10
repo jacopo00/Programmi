@@ -1,0 +1,30 @@
+﻿Compilazione avviata 12/10/2017 11:39:36.
+     1>Progetto "F:\2017-10-12_Libreria Lista\2017-10-12_Libreria Lista.vcxproj" sul nodo 2 (destinazioni: build).
+     1>InitializeBuildStatus:
+         Creazione di "Debug\2017-10-12_Libreria Lista.unsuccessfulbuild". È stato specificato "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt lista.c main.c
+         main.c
+     1>f:\2017-10-12_libreria lista\main.c(11): warning C4101: 'u': variabile locale senza riferimenti
+         lista.c
+         Generazione del codice in corso...
+       ManifestResourceCompile:
+         Tutti gli output sono aggiornati.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\2017-10-12_Libreria Lista\Debug\2017-10-12_Libreria Lista.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\2017-10-12_Libreria Lista.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\2017-10-12_Libreria Lista\Debug\2017-10-12_Libreria Lista.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\2017-10-12_Libreria Lista\Debug\2017-10-12_Libreria Lista.lib" /MACHINE:X86 "Debug\2017-10-12_Libreria Lista.exe.embed.manifest.res"
+         Debug\lista.obj
+         Debug\main.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\2017-10-12_Libreria Lista.exe.embed.manifest" /manifest "Debug\2017-10-12_Libreria Lista.exe.intermediate.manifest"
+         Tutti gli output sono aggiornati.
+       LinkEmbedManifest:
+         Tutti gli output sono aggiornati.
+         2017-10-12_Libreria Lista.vcxproj -> F:\2017-10-12_Libreria Lista\Debug\2017-10-12_Libreria Lista.exe
+       FinalizeBuildStatus:
+         Eliminazione del file "Debug\2017-10-12_Libreria Lista.unsuccessfulbuild" in corso.
+         Aggiornamento timestamp di "Debug\2017-10-12_Libreria Lista.lastbuildstate".
+     1>Compilazione progetto "F:\2017-10-12_Libreria Lista\2017-10-12_Libreria Lista.vcxproj" (destinazioni: build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:04.38

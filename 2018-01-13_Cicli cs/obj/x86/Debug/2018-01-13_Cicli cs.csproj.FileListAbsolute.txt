@@ -1,0 +1,4 @@
+E:\cecco e bj\2018-01-13_Cicli cs\bin\Debug\2018-01-13_Cicli cs.exe
+E:\cecco e bj\2018-01-13_Cicli cs\bin\Debug\2018-01-13_Cicli cs.pdb
+E:\cecco e bj\2018-01-13_Cicli cs\obj\x86\Debug\2018-01-13_Cicli cs.exe
+E:\cecco e bj\2018-01-13_Cicli cs\obj\x86\Debug\2018-01-13_Cicli cs.pdb

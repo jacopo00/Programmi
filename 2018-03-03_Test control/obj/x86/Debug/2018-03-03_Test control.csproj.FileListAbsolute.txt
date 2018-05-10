@@ -1,0 +1,3 @@
+F:\2018-03-03_Test control\obj\x86\Debug\_2018_03_03_Test_control.Form1.resources
+F:\2018-03-03_Test control\obj\x86\Debug\_2018_03_03_Test_control.Properties.Resources.resources
+F:\2018-03-03_Test control\obj\x86\Debug\2018-03-03_Test control.csproj.GenerateResource.Cache

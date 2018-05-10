@@ -1,0 +1,6 @@
+E:\cecco e bj\2018-01-16_Frazione\bin\Debug\2018-01-16_Frazione.exe
+E:\cecco e bj\2018-01-16_Frazione\bin\Debug\2018-01-16_Frazione.pdb
+E:\cecco e bj\2018-01-16_Frazione\obj\x86\Debug\2018-01-16_Frazione.exe
+E:\cecco e bj\2018-01-16_Frazione\obj\x86\Debug\2018-01-16_Frazione.pdb
+C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2018-01-16_Frazione\obj\x86\Debug\2018-01-16_Frazione.exe
+C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2018-01-16_Frazione\obj\x86\Debug\2018-01-16_Frazione.pdb

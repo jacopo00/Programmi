@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1494425073 source:c:\jacopo\scuola\superiori\informatica\concessionaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+

@@ -1,0 +1,20 @@
+﻿Compilazione avviata 20/11/2017 17:33:34.
+     1>Progetto "C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2017-11-14_Frazioni\2017-11-14_Frazioni.vcxproj" sul nodo 2 (destinazioni: build).
+     1>InitializeBuildStatus:
+         Creazione di "Debug\2017-11-14_Frazioni.unsuccessfulbuild". È stato specificato "AlwaysCreate".
+       ClCompile:
+         Tutti gli output sono aggiornati.
+       ManifestResourceCompile:
+         Tutti gli output sono aggiornati.
+       Link:
+         Tutti gli output sono aggiornati.
+       Manifest:
+         Tutti gli output sono aggiornati.
+       FinalizeBuildStatus:
+         Eliminazione del file "Debug\2017-11-14_Frazioni.unsuccessfulbuild" in corso.
+         Aggiornamento timestamp di "Debug\2017-11-14_Frazioni.lastbuildstate".
+     1>Compilazione progetto "C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2017-11-14_Frazioni\2017-11-14_Frazioni.vcxproj" (destinazioni: build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:00.09

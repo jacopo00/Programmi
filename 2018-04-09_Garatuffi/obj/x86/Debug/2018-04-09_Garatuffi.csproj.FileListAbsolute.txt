@@ -1,0 +1,6 @@
+E:\cecco e bj\2018-04-09_Garatuffi\bin\Debug\2018-04-09_Garatuffi.exe
+E:\cecco e bj\2018-04-09_Garatuffi\bin\Debug\2018-04-09_Garatuffi.pdb
+E:\cecco e bj\2018-04-09_Garatuffi\obj\x86\Debug\2018-04-09_Garatuffi.exe
+E:\cecco e bj\2018-04-09_Garatuffi\obj\x86\Debug\2018-04-09_Garatuffi.pdb
+C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2018-04-09_Garatuffi\obj\x86\Debug\2018-04-09_Garatuffi.exe
+C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2018-04-09_Garatuffi\obj\x86\Debug\2018-04-09_Garatuffi.pdb

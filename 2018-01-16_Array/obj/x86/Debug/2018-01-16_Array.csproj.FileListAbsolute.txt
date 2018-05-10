@@ -1,0 +1,8 @@
+E:\cecco e bj\2018-01-16_Array\bin\Debug\2018-01-16_Array.exe
+E:\cecco e bj\2018-01-16_Array\bin\Debug\2018-01-16_Array.pdb
+E:\cecco e bj\2018-01-16_Array\obj\x86\Debug\2018-01-16_Array.exe
+E:\cecco e bj\2018-01-16_Array\obj\x86\Debug\2018-01-16_Array.pdb
+C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2018-01-16_Array\obj\x86\Debug\2018-01-16_Array.exe
+C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2018-01-16_Array\obj\x86\Debug\2018-01-16_Array.pdb
+C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2018-01-16_Array\bin\Debug\2018-01-16_Array.exe
+C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2018-01-16_Array\bin\Debug\2018-01-16_Array.pdb

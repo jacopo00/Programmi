@@ -1,0 +1,4 @@
+C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2018-01-15_Array\2018-01-15_Array\bin\Debug\2018-01-15_Array.exe
+C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2018-01-15_Array\2018-01-15_Array\bin\Debug\2018-01-15_Array.pdb
+C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2018-01-15_Array\2018-01-15_Array\obj\x86\Debug\2018-01-15_Array.exe
+C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2018-01-15_Array\2018-01-15_Array\obj\x86\Debug\2018-01-15_Array.pdb

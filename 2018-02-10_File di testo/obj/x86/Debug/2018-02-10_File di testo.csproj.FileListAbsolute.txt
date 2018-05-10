@@ -1,0 +1,6 @@
+F:\Informatica\2018-02-10_File di testo\bin\Debug\2018-02-10_File di testo.exe
+F:\Informatica\2018-02-10_File di testo\bin\Debug\2018-02-10_File di testo.pdb
+F:\Informatica\2018-02-10_File di testo\obj\x86\Debug\2018-02-10_File di testo.exe
+F:\Informatica\2018-02-10_File di testo\obj\x86\Debug\2018-02-10_File di testo.pdb
+C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2018-02-10_File di testo\obj\x86\Debug\2018-02-10_File di testo.exe
+C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2018-02-10_File di testo\obj\x86\Debug\2018-02-10_File di testo.pdb

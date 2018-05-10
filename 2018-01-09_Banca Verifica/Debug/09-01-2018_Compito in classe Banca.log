@@ -1,0 +1,40 @@
+﻿Compilazione avviata 09/01/2018 10:24:19.
+     1>Progetto "E:\cecco e bj\2018-01-09_Banca Verifica\09-01-2018_Compito in classe Banca.vcxproj" sul nodo 2 (destinazioni: rebuild).
+     1>InitializeBuildStatus:
+         Creazione di "Debug\09-01-2018_Compito in classe Banca.unsuccessfulbuild". È stato specificato "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Banca.cpp main.cpp
+         main.cpp
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.h(12): error C2146: errore di sintassi: ';' mancante prima dell'identificatore 'vet'
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.h(12): error C4430: identificatore di tipo mancante, verrà utilizzato int. Nota: default-int non è più supportato in C++
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.h(16): error C2146: errore di sintassi: ';' mancante prima dell'identificatore 'vet'
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.h(16): error C4430: identificatore di tipo mancante, verrà utilizzato int. Nota: default-int non è più supportato in C++
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.h(16): error C4430: identificatore di tipo mancante, verrà utilizzato int. Nota: default-int non è più supportato in C++
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.h(19): error C4430: identificatore di tipo mancante, verrà utilizzato int. Nota: default-int non è più supportato in C++
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.h(19): warning C4183: 'Banca': tipo restituito mancante. Si presume che sia una funzione membro che restituisce 'int'.
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.h(20): error C2523: 'CBanca::~Banca': errore di corrispondenza nel tag del distruttore
+     1>e:\cecco e bj\2018-01-09_banca verifica\main.cpp(29): error C2664: 'CBanca::Affitta': impossibile convertire il parametro 1 da 'char' a 'char []'
+                 La conversione da tipo integrale a tipo puntatore richiede reinterpret_cast, cast di tipo C o cast di tipo funzione
+     1>e:\cecco e bj\2018-01-09_banca verifica\main.cpp(35): error C2143: errore di sintassi: ';' mancante prima di '}'
+         Banca.cpp
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.h(12): error C2146: errore di sintassi: ';' mancante prima dell'identificatore 'vet'
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.h(12): error C4430: identificatore di tipo mancante, verrà utilizzato int. Nota: default-int non è più supportato in C++
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.h(16): error C2146: errore di sintassi: ';' mancante prima dell'identificatore 'vet'
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.h(16): error C4430: identificatore di tipo mancante, verrà utilizzato int. Nota: default-int non è più supportato in C++
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.h(16): error C4430: identificatore di tipo mancante, verrà utilizzato int. Nota: default-int non è più supportato in C++
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.h(19): error C4430: identificatore di tipo mancante, verrà utilizzato int. Nota: default-int non è più supportato in C++
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.h(19): warning C4183: 'Banca': tipo restituito mancante. Si presume che sia una funzione membro che restituisce 'int'.
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.h(20): error C2523: 'CBanca::~Banca': errore di corrispondenza nel tag del distruttore
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.cpp(4): error C2084: la funzione 'CBanca::CBanca(void)' ha già un corpo
+                 e:\cecco e bj\2018-01-09_banca verifica\banca.h(21): vedere la precedente definizione di '{ctor}'
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.cpp(17): error C2228: l'elemento a sinistra di '.ident' deve avere una classe, struttura o unione
+                 il tipo è 'int'
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.cpp(26): error C2228: l'elemento a sinistra di '.ident' deve avere una classe, struttura o unione
+                 il tipo è 'int'
+     1>e:\cecco e bj\2018-01-09_banca verifica\banca.cpp(27): error C3861: 'sprintf': identificatore non trovato
+         Generazione del codice in corso...
+     1>Compilazione progetto "E:\cecco e bj\2018-01-09_Banca Verifica\09-01-2018_Compito in classe Banca.vcxproj" (destinazioni: rebuild) NON COMPLETATA.
+
+Compilazione NON RIUSCITA.
+
+Tempo trascorso 00:00:02.02

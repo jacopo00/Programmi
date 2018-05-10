@@ -1,0 +1,9 @@
+E:\cecco e bj\2018-01-23_TestClassFrazione\bin\Debug\2018-01-23_TestClassFrazione.exe
+E:\cecco e bj\2018-01-23_TestClassFrazione\bin\Debug\2018-01-23_TestClassFrazione.pdb
+E:\cecco e bj\2018-01-23_TestClassFrazione\obj\x86\Debug\_2018_01_23_TestClassFrazione.FormMain.resources
+E:\cecco e bj\2018-01-23_TestClassFrazione\obj\x86\Debug\_2018_01_23_TestClassFrazione.Properties.Resources.resources
+E:\cecco e bj\2018-01-23_TestClassFrazione\obj\x86\Debug\2018-01-23_TestClassFrazione.csproj.GenerateResource.Cache
+E:\cecco e bj\2018-01-23_TestClassFrazione\obj\x86\Debug\2018-01-23_TestClassFrazione.exe
+E:\cecco e bj\2018-01-23_TestClassFrazione\obj\x86\Debug\2018-01-23_TestClassFrazione.pdb
+C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2018-01-23_TestClassFrazione\obj\x86\Debug\2018-01-23_TestClassFrazione.exe
+C:\Jacopo\Scuola\Superiori\4°Anno\Informatica\2018-01-23_TestClassFrazione\obj\x86\Debug\2018-01-23_TestClassFrazione.pdb

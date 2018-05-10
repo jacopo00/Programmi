@@ -1,0 +1,4 @@
+1001	poltrona	230	10
+2005	tavolo	300	4
+2009	sedia	100	15
+3048	armadio a muro	780	3

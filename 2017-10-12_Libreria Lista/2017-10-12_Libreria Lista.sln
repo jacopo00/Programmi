@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2017-10-12_Libreria Lista", "2017-10-12_Libreria Lista.vcxproj", "{CBC9F5E5-4C41-4EBD-A90E-B9625F77139A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBC9F5E5-4C41-4EBD-A90E-B9625F77139A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CBC9F5E5-4C41-4EBD-A90E-B9625F77139A}.Debug|Win32.Build.0 = Debug|Win32
+		{CBC9F5E5-4C41-4EBD-A90E-B9625F77139A}.Release|Win32.ActiveCfg = Release|Win32
+		{CBC9F5E5-4C41-4EBD-A90E-B9625F77139A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

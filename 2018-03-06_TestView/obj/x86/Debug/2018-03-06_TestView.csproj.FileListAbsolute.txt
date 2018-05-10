@@ -1,0 +1,8 @@
+E:\cecco e bj\2018-03-06_TestView\bin\Debug\2018-03-06_TestView.exe
+E:\cecco e bj\2018-03-06_TestView\bin\Debug\2018-03-06_TestView.pdb
+E:\cecco e bj\2018-03-06_TestView\obj\x86\Debug\_2018_03_06_TestView.FormMain.resources
+E:\cecco e bj\2018-03-06_TestView\obj\x86\Debug\_2018_03_06_TestView.Properties.Resources.resources
+E:\cecco e bj\2018-03-06_TestView\obj\x86\Debug\2018-03-06_TestView.csproj.GenerateResource.Cache
+E:\cecco e bj\2018-03-06_TestView\obj\x86\Debug\2018-03-06_TestView.exe
+E:\cecco e bj\2018-03-06_TestView\obj\x86\Debug\2018-03-06_TestView.pdb
+E:\cecco e bj\2018-03-06_TestView\obj\x86\Debug\2018-03-06_TestView.csprojResolveAssemblyReference.cache
